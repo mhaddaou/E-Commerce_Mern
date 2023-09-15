@@ -14,10 +14,6 @@ npm run dev
 ## Backend
     typescript express with nodemon
     for run backend go inside folder server and run 
-    ```console
-    npm install
-
-    npx tsc
-
-npm start
+   ```console
+hello
 ```
