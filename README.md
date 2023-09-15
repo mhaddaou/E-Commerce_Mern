@@ -5,7 +5,7 @@
     typescript react with vite 
     for run front go inside folder clinet and run 
   ```console
-  npm install
+npm install
 
     npm run dev
 ```
