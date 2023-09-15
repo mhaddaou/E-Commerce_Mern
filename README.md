@@ -4,10 +4,11 @@
 ## FrontEnd 
     typescript react with vite 
     for run front go inside folder clinet and run 
-    ``` console
-        npm i
-        npm run dev
-    ```
+  ```console
+    npm install
+
+npm run dev
+```
 
 
 ## Backend
