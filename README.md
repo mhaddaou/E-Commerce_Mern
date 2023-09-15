@@ -15,5 +15,9 @@ npm run dev
     typescript express with nodemon
     for run backend go inside folder server and run 
    ```console
-hello
+npm install
+
+npx tsc
+
+npm start
 ```
