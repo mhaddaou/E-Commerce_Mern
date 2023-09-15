@@ -8,6 +8,9 @@
         npm i
         npm run dev
     ```
+    ```console
+    hello
+    ```
 
 ## Backend
     typescript express with nodemon
