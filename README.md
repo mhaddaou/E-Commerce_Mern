@@ -7,15 +7,17 @@
   ```console
     npm install
 
-npm run dev
+    npm run dev
 ```
 
 
 ## Backend
     typescript express with nodemon
     for run backend go inside folder server and run 
-    ``` console
+    ```console
         npm i
+        
         npx tsc
+        
         npm start
     ```
