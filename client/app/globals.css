@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,500;0,600;0,800;1,500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+.inpname{
+    @apply h-14 rounded-md  bg-zinc-700 px-4 outline-none text-white tracking-widest border-transparent focus:border-purple-200 border-2  w-1/4;
+}
+.inpmail{
+    @apply h-14 rounded-md  bg-zinc-700 px-4 outline-none text-white tracking-widest border-transparent focus:border-purple-200 border-2  w-[52%];
+}
